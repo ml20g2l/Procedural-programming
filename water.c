@@ -4,17 +4,6 @@ School of Computing
 COMP1711/XJCO1711- Procedural Programming
 Coursework 1
 
-I confirm that the following code has been developed and written by me and it is entirely the result of my own work.
-I also confirm that I have not copied any parts of this program from another person or any other source or facilitated someone to copy this program from me.
-I confirm that I will not publish the program online or share it with anyone without permission of the module leader.
-
-Student Name: Geeyoon Lim
-Student ID: 201553023
-Email: ml20g2l@leeds.ac.uk
-Date Work Commenced:28/10/2021
-
-*************************************************************************/
-
 
 // ********************************************************************************************************************
 // DO NOT CHANGE ANYTHING IN THE FOLLOWING SECTION. IF YOU CHANGE ANYTHING, YOUR CODE WILL FAIL THE AUTOGRADER TESTS
