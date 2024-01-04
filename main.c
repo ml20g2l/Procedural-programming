@@ -1,7 +1,3 @@
-
-// Name: Geeyoon Lim
-// Username: ml20g2l
-// Date started: 04/01/2022
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
